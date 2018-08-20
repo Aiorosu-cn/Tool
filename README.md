@@ -1,4 +1,3 @@
-# Tool
 [TOC]
-## Self_power.java  
+# Self_power.java  
 judge if it's Self power number 
